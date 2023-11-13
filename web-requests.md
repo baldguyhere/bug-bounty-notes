@@ -56,4 +56,6 @@
 - To skip the certificate check with cURL, we can use the -k flag
 
 ### HTTP REQ ###
-- 
+ ![My Image](images/raw_request.png)
+ 
+- The first line of any HTTP request contains three main fields 'separated by spaces':
